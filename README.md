@@ -4,8 +4,8 @@ I'm a software engineer based in Mexico City. I recently graduated from Universi
 
 ## About Me
 
-- 🌱 I'm currently learning more about Machine Learning.
 - 🚀 I'm passionate about technology and its ability to transform the world.
+- 🌱 I'm currently learning more about Machine Learning.
 
 ## Skills
 
